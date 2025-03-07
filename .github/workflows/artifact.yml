@@ -29,6 +29,6 @@ jobs:
           name: hello-artifact
 
       - name: Print txt
-        run: cat hello-artifact
+        run: cat hello.txt
 
         
